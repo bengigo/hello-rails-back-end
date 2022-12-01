@@ -6,5 +6,4 @@ Rails.application.routes.draw do
       resources :greetings
     end
   end
-  root 'root#index'
 end
